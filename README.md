@@ -10,6 +10,7 @@ separate files.
 
 | File | Game |
 | --- | --- |
+| `Faxanadu.3dn` | Faxanadu (USA) |
 | `Metal Force.3dn` | Metal Force (Korea) |
 
 ## Use
